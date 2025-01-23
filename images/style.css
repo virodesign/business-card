@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.card-container {
+	display: flex;
+	width: 600px;
+	padding: 30px;
+	background-color: #445150;
+	color: whitesmoke;
+	margin: 200px auto;
+	box-shadow: 2px 10px 50px slategray;
+	border-radius: 40px;
+	border-top: 6px #475150;
+	border-bottom: 3px solid #3b3b3b;
+}
+
+.avatar {
+	width: 220px;
+	border-radius: 1000px;
+	margin: 20px;
+}
+
+dt {
+	font-weight: 500;
+}
